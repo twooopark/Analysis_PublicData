@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="586c8e1c-7005-4ae2-88b1-2771e8568b7c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collection/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/collection/crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__test__/test_Api.py" beforeDir="false" afterPath="$PROJECT_DIR$/__test__/test_Api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection/api/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/collection/api/api.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_Api.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/__test__/test_Api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collection/api/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+            <state relative-caret-position="361">
+              <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -30,11 +39,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__main__.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="__main__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/__main__.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="부산광역시_tourspot_2012_2014.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__results__/crawling/부산광역시_tourspot_2012_2014.json">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="미국(275)_foreignvisitor_2012_2013.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__results__/crawling/미국(275)_foreignvisitor_2012_2013.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -80,10 +107,10 @@
         <option value="$PROJECT_DIR$/__test__/test_seaborn.py" />
         <option value="$PROJECT_DIR$/__test__/test_api.py" />
         <option value="$PROJECT_DIR$/collection/__init__.py" />
-        <option value="$PROJECT_DIR$/__test__/test_Api.py" />
-        <option value="$PROJECT_DIR$/collection/api/api.py" />
         <option value="$PROJECT_DIR$/collection/crawler.py" />
         <option value="$PROJECT_DIR$/__main__.py" />
+        <option value="$PROJECT_DIR$/collection/api/api.py" />
+        <option value="$PROJECT_DIR$/__test__/test_Api.py" />
       </list>
     </option>
   </component>
@@ -165,7 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.__main__">
+  <component name="RunManager" selected="Python.test_Api">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="analysis_pd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,9 +293,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_Api" />
         <item itemvalue="Python.__main__" />
         <item itemvalue="Python.crawler" />
-        <item itemvalue="Python.test_Api" />
         <item itemvalue="Python.api" />
         <item itemvalue="Python.__init__" />
       </list>
@@ -348,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528944565307</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update json files">
+      <created>1528944806788</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1528944806788</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -463,7 +497,8 @@
     <MESSAGE value="First Commit (add Tourspot Crawler, preprocess, api...)" />
     <MESSAGE value="add Foreign Visitor Crawler, preprocess..." />
     <MESSAGE value="crawling_foreign_visitor's json results" />
-    <option name="LAST_COMMIT_MESSAGE" value="crawling_foreign_visitor's json results" />
+    <MESSAGE value="update json files" />
+    <option name="LAST_COMMIT_MESSAGE" value="update json files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -599,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/test_Api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/__results__/crawling/부산광역시_tourspot_2012_2012.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -693,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__results__/crawling/부산광역시_tourspot_2012_2014.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/__results__/crawling/미국_foreignvisitor_2012_2013.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -721,23 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__results__/crawling/미국(275)_foreignvisitor_2012_2013.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/api/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="67" column="12" lean-forward="true" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/collection/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -748,10 +752,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/__results__/crawling/미국(275)_foreignvisitor_2012_2013.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__results__/crawling/부산광역시_tourspot_2012_2014.json">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection/api/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__test__/test_Api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
         </state>
       </provider>
     </entry>

@@ -1,5 +1,7 @@
 from .json_request import json_request
 from urllib.parse import urlencode
+from datetime import datetime
+
 
 TOUR_URL_ENDPOINT = 'http://openapi.tour.go.kr/openapi/service/TourismResourceStatsService/getPchrgTrrsrtVisitorList'
 ED_URL_ENDPOINT = 'http://openapi.tour.go.kr/openapi/service/EdrcntTourismStatsService/getEdrcntTourismStatsList'
@@ -28,16 +30,13 @@ def pd_fetch_foreign_visitor(
     )
     json_result = json_request(url=url)
     resHeader = json_result.get('response').get('header')
-    resMsg = "OK" if resHeader.get('resultMsg') == "OK" else "Fail"
-    print(resMsg)
+    if resHeader.get('resultMsg') != "OK" :
+        print("%s Error[%s] for request %s" % (datetime.now(), resHeader.get('resultMsg'), url))
+        return None
     resBody = json_result.get('response').get('body')
     items = None if resBody is None else resBody.get('items')
-    try:
-        item = None if items is None else items.get('item')
-        yield item
-    except AttributeError:
-        pass
 
+    yield items.get('item') if isinstance(items, dict) else None
 
 def pd_fetch_tourspot_visitor(
         district1='',
