@@ -14,7 +14,9 @@ import analysis_pd.collection.api as pdapi
 # print(url)
 #
 # test for pd_fetch_tourspot_visitor
-for items in pdapi.pd_fetch_tourspot_visitor(district1='서울특별시', year=2012, month=7):
+for items in pdapi.pd_fetch_tourspot_visitor(district1='부산광역시', year=2012, month=7):
     print(items)
 
 # test for pd_fetch_foreign_visitor
+# for items in pdapi.pd_fetch_foreign_visitor(country_code=112, year=2012, month=7):
+#     print(items)
