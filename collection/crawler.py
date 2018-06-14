@@ -29,7 +29,7 @@ def crawling_foreign_visitor(
     results = []
     filename = '%s/%s(%s)_foreignvisitor_%s_%s.json' % (RESULT_DIRECTORY, country[0], country[1], start_year, end_year)
     for i in range(start_year, end_year+1):
-        for j in range(1, 3):# 13):
+        for j in range(1, 13):
             for posts in api.pd_fetch_foreign_visitor(country_code=country[1], year=i, month=j):
                 if type(posts) is dict:
                     posts = [posts]
@@ -70,7 +70,7 @@ def crawling_tourspot_visitor(
     results = []
     filename = '%s/%s_tourspot_%s_%s.json' % (RESULT_DIRECTORY, district, start_year, end_year)
     for i in range(start_year, end_year+1):
-        for j in range(1, 3):#13):
+        for j in range(1, 13):
             # retuned posts type is two cases, if posts have a one value, type is Dictinary, else if posts have several values, type is List
             # EX) busan,  12y --> list 13y --> None 14y --> dict
             for posts in api.pd_fetch_tourspot_visitor(district1=district, year=i, month=j):
