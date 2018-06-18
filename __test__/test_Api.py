@@ -1,4 +1,4 @@
-import analysis_pd.collection.api as pdapi
+import analysis_pd.collect.api as pdapi
 
 # test for pd_gen_url
 # url = pdapi.pd_gen_url(
@@ -14,9 +14,9 @@ import analysis_pd.collection.api as pdapi
 # print(url)
 #
 # test for pd_fetch_tourspot_visitor
-for items in pdapi.pd_fetch_tourspot_visitor(district1='부산광역시', year=2012, month=7):
-    print(items)
+# for items in pdapi.pd_fetch_tourspot_visitor(district1='부산광역시', year=2012, month=7):
+#     print(items)
 
 # test for pd_fetch_foreign_visitor
-# for items in pdapi.pd_fetch_foreign_visitor(country_code=112, year=2012, month=7):
-#     print(items)
+for items in pdapi.pd_fetch_foreign_visitor(country_code=112, year=2020, month=7):
+    print(items)

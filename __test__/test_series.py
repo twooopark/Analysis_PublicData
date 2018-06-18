@@ -21,10 +21,11 @@ d = {'a': 10, 'b': 20, 'c': 30}
 s1 = pd.Series(d)
 print(s1)
 
-s1 = pd.Series(d, index=['a', 'b', 'c', 'd'])
+# 에러메시지는 안뜨지만, NaN값이 들어간다
+s1 = pd.Series(d, index=['A','B','C'])
 print(s1)
 
-# index와 values라는 이름의 속성을 통해 접근할 수 있다.
+# 순회 (index, values라는 속성을 통해 접근이 가능하다.)
 for date in s.index:
     print(date, end=' ')
 else:
@@ -32,7 +33,7 @@ else:
 
 for price in s.values:
     print(price, end=' ')
-else:
+else: # 루프가 끝나면, 개행문자
     print()
 
 # 연산
@@ -42,6 +43,7 @@ s3 = s1 + s2
 
 print(s3)
 
+# 인덱스가 서로 다를때 NaN출력, 개수가 다르면 에러메세지
 s1 = pd.Series([10, 20, 30], index=['A', 'B', 'C'])
 s2 = pd.Series([10, 20, 30], index=['B', 'C', 'D'])
 print(s1 + s2)
