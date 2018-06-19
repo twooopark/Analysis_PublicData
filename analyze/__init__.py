@@ -1,2 +1,2 @@
-from .analyzer import anlysis_correlation
-from .analyzer import anlysis_correlation_by_tourspot
+from .analyzer import analysis_correlation
+from .analyzer import analysis_correlation_by_tourspot

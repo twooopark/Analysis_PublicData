@@ -21,14 +21,18 @@ if __name__ == '__main__':
         resultfiles['foreign_visitor'].append(returnedFilename)
 
     # analysis
-    results = analyze.anlysis_correlation(resultfiles=resultfiles)
-
-
+    results = analyze.analysis_correlation(resultfiles=resultfiles)
 
     # visualize
     for result in results :
         print(result)
+    visualize.graph_scatter(results, showgraph=False)
 
-    visualize.graph_scatter(results)
+
+    # 2. analysis & vsualization
+    result_analysis = analyze.analysis_correlation_by_tourspot(resultfiles=resultfiles)
+    print(result_analysis)
+
+
 
 

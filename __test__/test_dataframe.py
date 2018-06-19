@@ -116,3 +116,11 @@ df1 = pd.DataFrame({'key': ['a', 'b', 'a', 'a', 'b', 'c'],  'value': range(6)})
 df2 = pd.DataFrame({'group_val': [3.5, 7]}, index=['a', 'b'])
 pd.merge(df1, df2, left_on='key', right_index=True)
 
+df1 = pd.DataFrame([[1., 2.], [3., 4.], [5., 6.]], columns=['Ohio', 'Nevada'], index=['a', 'c', 'e'])
+df2 = pd.DataFrame([[7., 8.], [9., 10.], [11., 12.], [13, 14]], columns=['Missouri', 'Alabama'], index=['b', 'c', 'd', 'e'])
+print(df1)
+print('------------------------------------------')
+print(df2)
+print('------------------------------------------')
+print(pd.merge(df1, df2, left_index=True, right_index=True))
+

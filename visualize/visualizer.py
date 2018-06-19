@@ -3,7 +3,7 @@ import os
 
 RESULT_DIRECTORY = "__results__/visualization"
 
-def graph_scatter(result_analysis):
+def graph_scatter(result_analysis, showgraph=True):
 
     fig, subplots = plt.subplots(1, len(result_analysis), sharey=True)
 
@@ -18,7 +18,10 @@ def graph_scatter(result_analysis):
     plt.savefig(save_filename, dpi=400, bbox_inches='tight')
 
     plt.subplots_adjust(wspace=0)
-    plt.show()
+
+    # show graph?
+    if showgraph:
+        plt.show()
 
 if os.path.exists(RESULT_DIRECTORY) is False:
     os.mkdir(RESULT_DIRECTORY)

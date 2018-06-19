@@ -2,10 +2,10 @@ import os
 
 # configuration
 CONFIG = {
-    'district': '부산광역시',
+    'district': '서울특별시',
     'countries': [('중국', 112), ('일본', 130), ('미국', 275)],
     'common': {
-        'start_year': 2011,
+        'start_year': 2017,
         'end_year': 2017,
         'fetch': False,
         'restore_dir': '__results__/crawling',
