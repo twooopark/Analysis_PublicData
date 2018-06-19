@@ -4,12 +4,7 @@
     <list default="true" id="586c8e1c-7005-4ae2-88b1-2771e8568b7c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__results__/crawling/부산광역시_tourspot_2011_2017.json" beforeDir="false" afterPath="$PROJECT_DIR$/__results__/crawling/부산광역시_tourspot_2011_2017.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__test__/test_dataframe.py" beforeDir="false" afterPath="$PROJECT_DIR$/__test__/test_dataframe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analyze/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/analyze/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analyze/analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/analyze/analyzer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collect/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/collect/crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualize/visualizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualize/visualizer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,32 +21,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_dataframe.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/__test__/test_dataframe.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="46" column="59" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="__main__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/__main__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="analyzer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="graph_scatter_미  국.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__results__/visualization/graph_scatter_미  국.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="graph_scatter_일  본.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__results__/visualization/graph_scatter_일  본.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="graph_scatter_중  국.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__results__/visualization/graph_scatter_중  국.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="matplotlibrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/matplotlibrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="181" column="67" selection-start-line="181" selection-start-column="67" selection-end-line="181" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visualize/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analyzer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/analyze/analyzer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="494">
+              <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="visualizer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/visualize/visualizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/collect/crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -69,6 +121,7 @@
     <findStrings>
       <find>PD_SERVICE_KEY</find>
       <find>merge</find>
+      <find>family</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -95,8 +148,6 @@
         <option value="$PROJECT_DIR$/collection/crawler.py" />
         <option value="$PROJECT_DIR$/collection/api/api.py" />
         <option value="$PROJECT_DIR$/__test__/test_Api.py" />
-        <option value="$PROJECT_DIR$/visualize/visualizer.py" />
-        <option value="$PROJECT_DIR$/visualize/__init__.py" />
         <option value="$PROJECT_DIR$/collect/api/api.py" />
         <option value="$PROJECT_DIR$/collect/api/json_request.py" />
         <option value="$PROJECT_DIR$/__test__/test_what.py" />
@@ -104,10 +155,13 @@
         <option value="$PROJECT_DIR$/__test__/test_series.py" />
         <option value="$PROJECT_DIR$/__test__/test_dataframe.py" />
         <option value="$PROJECT_DIR$/analyze/__init__.py" />
-        <option value="$PROJECT_DIR$/__main__.py" />
         <option value="$PROJECT_DIR$/collect/crawler.py" />
         <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/visualize/__init__.py" />
         <option value="$PROJECT_DIR$/analyze/analyzer.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/matplotlibrc" />
+        <option value="$PROJECT_DIR$/__main__.py" />
+        <option value="$PROJECT_DIR$/visualize/visualizer.py" />
       </list>
     </option>
   </component>
@@ -118,8 +172,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="403" />
-    <option name="width" value="1517" />
+    <option name="x" value="541" />
+    <option name="width" value="1379" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -146,7 +200,7 @@
               <item name="analysis_pd" type="b2602c69:ProjectViewProjectNode" />
               <item name="analysis_pd" type="462c0819:PsiDirectoryNode" />
               <item name="__results__" type="462c0819:PsiDirectoryNode" />
-              <item name="crawling" type="462c0819:PsiDirectoryNode" />
+              <item name="visualization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="analysis_pd" type="b2602c69:ProjectViewProjectNode" />
@@ -174,6 +228,36 @@
               <item name="analysis_pd" type="462c0819:PsiDirectoryNode" />
               <item name="visualize" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="analysis_pd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="analysis_pd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (analysis_pd) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="analysis_pd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (analysis_pd) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="analysis_pd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (analysis_pd) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="matplotlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="analysis_pd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (analysis_pd) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="matplotlib" type="462c0819:PsiDirectoryNode" />
+              <item name="mpl-data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -183,7 +267,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../analysis_fb" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -402,7 +486,35 @@
       <option name="project" value="LOCAL" />
       <updated>1529300885324</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="analysis_correlation 추가&#10;다른 내용의 json 파일들에서 원하는 컬럼들을 가져와 병합함">
+      <created>1529371737295</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1529371737295</updated>
+    </task>
+    <task id="LOCAL-00014" summary="analyzer scipy의 pearsonr을 통해 상관계수 값 추출 &#10;visualize - 산점도를 그리는 graph_scatter 추가">
+      <created>1529373214243</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1529373214243</updated>
+    </task>
+    <task id="LOCAL-00015" summary="matplot 한글 폰트 설정 전">
+      <created>1529373554209</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1529373554209</updated>
+    </task>
+    <task id="LOCAL-00016" summary="matplot 한글 설정">
+      <created>1529373734718</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1529373734718</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -415,15 +527,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="403" y="0" width="1517" height="1040" extended-state="0" />
+    <frame x="541" y="0" width="1379" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499336" visible="true" weight="0.14550446" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499336" visible="true" weight="0.20849128" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.25605902" side_tool="true" weight="0.3576881" />
-      <window_info active="true" anchor="right" x="85" y="383" width="1898" height="242" id="Run" order="6" sideWeight="0.743941" visible="true" weight="0.3843514" />
+      <window_info anchor="right" x="85" y="383" width="1898" height="242" id="Run" order="6" sideWeight="0.743941" visible="true" weight="0.23502654" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49736565" weight="0.3293348" />
-      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.49947312" weight="0.3293348" />
+      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.49947312" weight="0.32852387" />
       <window_info id="Structure" order="1" sideWeight="0.500664" side_tool="true" weight="0.084826134" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4062153" />
@@ -444,18 +556,18 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="right" x="85" y="383" width="1898" height="242" id="Run" order="6" sideWeight="0.743941" weight="0.3311111" />
+      <window_info anchor="right" x="85" y="383" width="1898" height="242" id="Run" order="6" sideWeight="0.743941" visible="true" weight="0.23502654" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499336" visible="true" weight="0.2528978" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499336" visible="true" weight="0.20849128" />
       <window_info id="Structure" order="1" sideWeight="0.500664" side_tool="true" weight="0.084826134" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="SVN Repositories" order="7" sideWeight="0.49925596" weight="0.32963374" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32963374" />
       <window_info anchor="right" id="Data View" order="3" />
-      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.49947312" weight="0.3293348" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.3991276" />
+      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.49947312" weight="0.32852387" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4062153" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.25605902" side_tool="true" weight="0.3576881" />
@@ -520,7 +632,11 @@
     <MESSAGE value="update json files" />
     <MESSAGE value="update fetch_foreign_visitor function...&#10;print Error Message&#10;dict type check" />
     <MESSAGE value="config.py를 통해 캡슐화, &#10;pandas의 series, dataframe Test&#10;matplot Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="config.py를 통해 캡슐화, &#10;pandas의 series, dataframe Test&#10;matplot Test" />
+    <MESSAGE value="analysis_correlation 추가&#10;다른 내용의 json 파일들에서 원하는 컬럼들을 가져와 병합함" />
+    <MESSAGE value="analyzer scipy의 pearsonr을 통해 상관계수 값 추출 &#10;visualize - 산점도를 그리는 graph_scatter 추가" />
+    <MESSAGE value="matplot 한글 폰트 설정 전" />
+    <MESSAGE value="matplot 한글 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="matplot 한글 설정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -534,11 +650,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/__results__/crawling/일본(130)_foreignvisitor_2017_2017.json" />
-    <entry file="file://$PROJECT_DIR$/__test__/test_seaborn.py" />
-    <entry file="file://$PROJECT_DIR$/__test__/test_ca.py" />
-    <entry file="file://$PROJECT_DIR$/__results__/crawling/('일본', 130)_tourspot_2017_2017.json" />
-    <entry file="file://$PROJECT_DIR$/__results__/crawling/('미국', 275)_tourspot_2017_2017.json" />
     <entry file="file://$PROJECT_DIR$/__results__/crawling/('중국', 112)_tourspot_2017_2017.json" />
     <entry file="file://$PROJECT_DIR$/__results__/crawling/('중국', 112)_tourspot_2012_2013.json" />
     <entry file="file://$PROJECT_DIR$/__results__/crawling/('일본', 130)_tourspot_2012_2013.json" />
@@ -574,13 +685,6 @@
     <entry file="file://$PROJECT_DIR$/collection/api/__init__.py" />
     <entry file="file://$PROJECT_DIR$/collection/crawler.py" />
     <entry file="file://$PROJECT_DIR$/collection/api/api.py" />
-    <entry file="file://$PROJECT_DIR$/visualize/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-start-column="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/__results__/crawling/중국(112)_foreignvisitor_2011_2017.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -639,13 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visualize/visualizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/analyze/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -660,40 +757,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/__test__/test_dataframe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="46" column="59" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/reshape/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualize/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/mpl-data/matplotlibrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="181" column="67" selection-start-line="181" selection-start-column="67" selection-end-line="181" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/collect/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="31" column="37" lean-forward="true" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__test__/test_dataframe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="46" column="59" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__main__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="380">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analyze/analyzer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="494">
+          <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__results__/visualization/graph_scatter_중  국.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__results__/visualization/graph_scatter_일  본.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__results__/visualization/graph_scatter_미  국.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualize/visualizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
