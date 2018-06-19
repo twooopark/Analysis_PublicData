@@ -1,2779 +1,3183 @@
 [
     {
-        "csForCnt": 273,
-        "csNatCnt": 8667,
+        "count_foreigner": 273,
+        "count_locals": 8667,
+        "date": 201101,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 73,
-        "csNatCnt": 910,
+        "count_foreigner": 73,
+        "count_locals": 910,
+        "date": 201101,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 5395,
-        "csNatCnt": 10514,
+        "count_foreigner": 5395,
+        "count_locals": 10514,
+        "date": 201101,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 54,
-        "csNatCnt": 1395,
+        "count_foreigner": 54,
+        "count_locals": 1395,
+        "date": 201101,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 2000,
-        "csNatCnt": 4948,
+        "count_foreigner": 2000,
+        "count_locals": 4948,
+        "date": 201101,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 806,
-        "csNatCnt": 4220,
+        "count_foreigner": 806,
+        "count_locals": 4220,
+        "date": 201101,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 692,
-        "csNatCnt": 16530,
+        "count_foreigner": 692,
+        "count_locals": 16530,
+        "date": 201101,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 373,
-        "csNatCnt": 4340,
+        "count_foreigner": 373,
+        "count_locals": 4340,
+        "date": 201101,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 4,
-        "csNatCnt": 46829,
+        "count_foreigner": 4,
+        "count_locals": 46829,
+        "date": 201101,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 71,
-        "csNatCnt": 1154,
+        "count_foreigner": 71,
+        "count_locals": 1154,
+        "date": 201101,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 162,
-        "csNatCnt": 4536,
+        "count_foreigner": 162,
+        "count_locals": 4536,
+        "date": 201102,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 70,
-        "csNatCnt": 850,
+        "count_foreigner": 70,
+        "count_locals": 850,
+        "date": 201102,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 6287,
-        "csNatCnt": 10509,
+        "count_foreigner": 6287,
+        "count_locals": 10509,
+        "date": 201102,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 55,
-        "csNatCnt": 1365,
+        "count_foreigner": 55,
+        "count_locals": 1365,
+        "date": 201102,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 4613,
-        "csNatCnt": 3197,
+        "count_foreigner": 4613,
+        "count_locals": 3197,
+        "date": 201102,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 696,
-        "csNatCnt": 4513,
+        "count_foreigner": 696,
+        "count_locals": 4513,
+        "date": 201102,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 4212,
-        "csNatCnt": 12376,
+        "count_foreigner": 4212,
+        "count_locals": 12376,
+        "date": 201102,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 514,
-        "csNatCnt": 4322,
+        "count_foreigner": 514,
+        "count_locals": 4322,
+        "date": 201102,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 14,
-        "csNatCnt": 39105,
+        "count_foreigner": 14,
+        "count_locals": 39105,
+        "date": 201102,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 329,
-        "csNatCnt": 1204,
+        "count_foreigner": 329,
+        "count_locals": 1204,
+        "date": 201102,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 668,
-        "csNatCnt": 13203,
+        "count_foreigner": 668,
+        "count_locals": 13203,
+        "date": 201103,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 82,
-        "csNatCnt": 980,
+        "count_foreigner": 82,
+        "count_locals": 980,
+        "date": 201103,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 6102,
-        "csNatCnt": 7159,
+        "count_foreigner": 6102,
+        "count_locals": 7159,
+        "date": 201103,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 46,
-        "csNatCnt": 1305,
+        "count_foreigner": 46,
+        "count_locals": 1305,
+        "date": 201103,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 2322,
-        "csNatCnt": 3444,
+        "count_foreigner": 2322,
+        "count_locals": 3444,
+        "date": 201103,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1062,
-        "csNatCnt": 3668,
+        "count_foreigner": 1062,
+        "count_locals": 3668,
+        "date": 201103,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 3306,
-        "csNatCnt": 8411,
+        "count_foreigner": 3306,
+        "count_locals": 8411,
+        "date": 201103,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 796,
-        "csNatCnt": 2853,
+        "count_foreigner": 796,
+        "count_locals": 2853,
+        "date": 201103,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 16,
-        "csNatCnt": 29241,
+        "count_foreigner": 16,
+        "count_locals": 29241,
+        "date": 201103,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 204,
-        "csNatCnt": 817,
+        "count_foreigner": 204,
+        "count_locals": 817,
+        "date": 201103,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 549,
-        "csNatCnt": 23580,
+        "count_foreigner": 549,
+        "count_locals": 23580,
+        "date": 201104,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 81,
-        "csNatCnt": 920,
+        "count_foreigner": 81,
+        "count_locals": 920,
+        "date": 201104,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 6080,
-        "csNatCnt": 9200,
+        "count_foreigner": 6080,
+        "count_locals": 9200,
+        "date": 201104,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 59,
-        "csNatCnt": 1401,
+        "count_foreigner": 59,
+        "count_locals": 1401,
+        "date": 201104,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 3771,
-        "csNatCnt": 3980,
+        "count_foreigner": 3771,
+        "count_locals": 3980,
+        "date": 201104,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 2485,
-        "csNatCnt": 5105,
+        "count_foreigner": 2485,
+        "count_locals": 5105,
+        "date": 201104,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 27,
-        "csNatCnt": 14750,
+        "count_foreigner": 27,
+        "count_locals": 14750,
+        "date": 201104,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 859,
-        "csNatCnt": 3989,
+        "count_foreigner": 859,
+        "count_locals": 3989,
+        "date": 201104,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 67,
-        "csNatCnt": 30747,
+        "count_foreigner": 67,
+        "count_locals": 30747,
+        "date": 201104,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 425,
-        "csNatCnt": 1156,
+        "count_foreigner": 425,
+        "count_locals": 1156,
+        "date": 201104,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 1133,
-        "csNatCnt": 35531,
+        "count_foreigner": 1133,
+        "count_locals": 35531,
+        "date": 201105,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 56,
-        "csNatCnt": 890,
+        "count_foreigner": 56,
+        "count_locals": 890,
+        "date": 201105,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 6802,
-        "csNatCnt": 11295,
+        "count_foreigner": 6802,
+        "count_locals": 11295,
+        "date": 201105,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 55,
-        "csNatCnt": 1433,
+        "count_foreigner": 55,
+        "count_locals": 1433,
+        "date": 201105,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 2376,
-        "csNatCnt": 5396,
+        "count_foreigner": 2376,
+        "count_locals": 5396,
+        "date": 201105,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 2719,
-        "csNatCnt": 4750,
+        "count_foreigner": 2719,
+        "count_locals": 4750,
+        "date": 201105,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 21,
-        "csNatCnt": 16381,
+        "count_foreigner": 21,
+        "count_locals": 16381,
+        "date": 201105,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 864,
-        "csNatCnt": 4351,
+        "count_foreigner": 864,
+        "count_locals": 4351,
+        "date": 201105,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 21,
-        "csNatCnt": 30975,
+        "count_foreigner": 21,
+        "count_locals": 30975,
+        "date": 201105,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 70,
-        "csNatCnt": 1492,
+        "count_foreigner": 70,
+        "count_locals": 1492,
+        "date": 201105,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 2701,
-        "csNatCnt": 51415,
+        "count_foreigner": 2701,
+        "count_locals": 51415,
+        "date": 201106,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 56,
-        "csNatCnt": 890,
+        "count_foreigner": 56,
+        "count_locals": 890,
+        "date": 201106,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 6215,
-        "csNatCnt": 11144,
+        "count_foreigner": 6215,
+        "count_locals": 11144,
+        "date": 201106,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 53,
-        "csNatCnt": 1499,
+        "count_foreigner": 53,
+        "count_locals": 1499,
+        "date": 201106,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 2878,
-        "csNatCnt": 5058,
+        "count_foreigner": 2878,
+        "count_locals": 5058,
+        "date": 201106,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 2719,
-        "csNatCnt": 4028,
+        "count_foreigner": 2719,
+        "count_locals": 4028,
+        "date": 201106,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 33,
-        "csNatCnt": 14318,
+        "count_foreigner": 33,
+        "count_locals": 14318,
+        "date": 201106,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 626,
-        "csNatCnt": 4077,
+        "count_foreigner": 626,
+        "count_locals": 4077,
+        "date": 201106,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 46,
-        "csNatCnt": 29109,
+        "count_foreigner": 46,
+        "count_locals": 29109,
+        "date": 201106,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 137,
-        "csNatCnt": 1294,
+        "count_foreigner": 137,
+        "count_locals": 1294,
+        "date": 201106,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 912,
-        "csNatCnt": 34363,
+        "count_foreigner": 912,
+        "count_locals": 34363,
+        "date": 201107,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 67,
-        "csNatCnt": 930,
+        "count_foreigner": 67,
+        "count_locals": 930,
+        "date": 201107,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 5842,
-        "csNatCnt": 15582,
+        "count_foreigner": 5842,
+        "count_locals": 15582,
+        "date": 201107,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 88,
-        "csNatCnt": 1837,
+        "count_foreigner": 88,
+        "count_locals": 1837,
+        "date": 201107,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 1752,
-        "csNatCnt": 6354,
+        "count_foreigner": 1752,
+        "count_locals": 6354,
+        "date": 201107,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 927,
-        "csNatCnt": 4732,
+        "count_foreigner": 927,
+        "count_locals": 4732,
+        "date": 201107,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 16,
-        "csNatCnt": 18218,
+        "count_foreigner": 16,
+        "count_locals": 18218,
+        "date": 201107,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 799,
-        "csNatCnt": 10289,
+        "count_foreigner": 799,
+        "count_locals": 10289,
+        "date": 201107,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 21,
-        "csNatCnt": 34923,
+        "count_foreigner": 21,
+        "count_locals": 34923,
+        "date": 201107,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 135,
-        "csNatCnt": 1329,
+        "count_foreigner": 135,
+        "count_locals": 1329,
+        "date": 201107,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 765,
-        "csNatCnt": 53141,
+        "count_foreigner": 765,
+        "count_locals": 53141,
+        "date": 201108,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 65,
-        "csNatCnt": 1020,
+        "count_foreigner": 65,
+        "count_locals": 1020,
+        "date": 201108,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 7041,
-        "csNatCnt": 20280,
+        "count_foreigner": 7041,
+        "count_locals": 20280,
+        "date": 201108,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 181,
-        "csNatCnt": 1656,
+        "count_foreigner": 181,
+        "count_locals": 1656,
+        "date": 201108,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 2707,
-        "csNatCnt": 7572,
+        "count_foreigner": 2707,
+        "count_locals": 7572,
+        "date": 201108,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1032,
-        "csNatCnt": 5644,
+        "count_foreigner": 1032,
+        "count_locals": 5644,
+        "date": 201108,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 278,
-        "csNatCnt": 21125,
+        "count_foreigner": 278,
+        "count_locals": 21125,
+        "date": 201108,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 267,
-        "csNatCnt": 6641,
+        "count_foreigner": 267,
+        "count_locals": 6641,
+        "date": 201108,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 27,
-        "csNatCnt": 32592,
+        "count_foreigner": 27,
+        "count_locals": 32592,
+        "date": 201108,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 50,
-        "csNatCnt": 1431,
+        "count_foreigner": 50,
+        "count_locals": 1431,
+        "date": 201108,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 940,
-        "csNatCnt": 29676,
+        "count_foreigner": 940,
+        "count_locals": 29676,
+        "date": 201109,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 81,
-        "csNatCnt": 840,
+        "count_foreigner": 81,
+        "count_locals": 840,
+        "date": 201109,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 7297,
-        "csNatCnt": 9459,
+        "count_foreigner": 7297,
+        "count_locals": 9459,
+        "date": 201109,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 108,
-        "csNatCnt": 1060,
+        "count_foreigner": 108,
+        "count_locals": 1060,
+        "date": 201109,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 3352,
-        "csNatCnt": 4635,
+        "count_foreigner": 3352,
+        "count_locals": 4635,
+        "date": 201109,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1194,
-        "csNatCnt": 4132,
+        "count_foreigner": 1194,
+        "count_locals": 4132,
+        "date": 201109,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 607,
-        "csNatCnt": 14574,
+        "count_foreigner": 607,
+        "count_locals": 14574,
+        "date": 201109,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 452,
-        "csNatCnt": 3778,
+        "count_foreigner": 452,
+        "count_locals": 3778,
+        "date": 201109,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 511,
-        "csNatCnt": 1275,
+        "count_foreigner": 511,
+        "count_locals": 1275,
+        "date": 201109,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 550,
-        "csNatCnt": 44449,
+        "count_foreigner": 550,
+        "count_locals": 44449,
+        "date": 201110,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 78,
-        "csNatCnt": 910,
+        "count_foreigner": 78,
+        "count_locals": 910,
+        "date": 201110,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 15408,
-        "csNatCnt": 18619,
+        "count_foreigner": 15408,
+        "count_locals": 18619,
+        "date": 201110,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 248,
-        "csNatCnt": 1714,
+        "count_foreigner": 248,
+        "count_locals": 1714,
+        "date": 201110,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 5042,
-        "csNatCnt": 6534,
+        "count_foreigner": 5042,
+        "count_locals": 6534,
+        "date": 201110,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 3752,
-        "csNatCnt": 6172,
+        "count_foreigner": 3752,
+        "count_locals": 6172,
+        "date": 201110,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 4909,
-        "csNatCnt": 19150,
+        "count_foreigner": 4909,
+        "count_locals": 19150,
+        "date": 201110,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 2055,
-        "csNatCnt": 8051,
+        "count_foreigner": 2055,
+        "count_locals": 8051,
+        "date": 201110,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 277,
-        "csNatCnt": 1078,
+        "count_foreigner": 277,
+        "count_locals": 1078,
+        "date": 201110,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 499,
-        "csNatCnt": 40747,
+        "count_foreigner": 499,
+        "count_locals": 40747,
+        "date": 201111,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 75,
-        "csNatCnt": 870,
+        "count_foreigner": 75,
+        "count_locals": 870,
+        "date": 201111,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 13839,
-        "csNatCnt": 16137,
+        "count_foreigner": 13839,
+        "count_locals": 16137,
+        "date": 201111,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 329,
-        "csNatCnt": 1096,
+        "count_foreigner": 329,
+        "count_locals": 1096,
+        "date": 201111,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 6083,
-        "csNatCnt": 5461,
+        "count_foreigner": 6083,
+        "count_locals": 5461,
+        "date": 201111,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 2509,
-        "csNatCnt": 6172,
+        "count_foreigner": 2509,
+        "count_locals": 6172,
+        "date": 201111,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 721,
-        "csNatCnt": 14697,
+        "count_foreigner": 721,
+        "count_locals": 14697,
+        "date": 201111,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 1777,
-        "csNatCnt": 7901,
+        "count_foreigner": 1777,
+        "count_locals": 7901,
+        "date": 201111,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 310,
-        "csNatCnt": 855,
+        "count_foreigner": 310,
+        "count_locals": 855,
+        "date": 201111,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 420,
-        "csNatCnt": 34629,
+        "count_foreigner": 420,
+        "count_locals": 34629,
+        "date": 201112,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 58,
-        "csNatCnt": 910,
+        "count_foreigner": 58,
+        "count_locals": 910,
+        "date": 201112,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 7437,
-        "csNatCnt": 16250,
+        "count_foreigner": 7437,
+        "count_locals": 16250,
+        "date": 201112,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 299,
-        "csNatCnt": 1196,
+        "count_foreigner": 299,
+        "count_locals": 1196,
+        "date": 201112,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 75114,
-        "csNatCnt": 7388,
+        "count_foreigner": 75114,
+        "count_locals": 7388,
+        "date": 201112,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1473,
-        "csNatCnt": 8750,
+        "count_foreigner": 1473,
+        "count_locals": 8750,
+        "date": 201112,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 456,
-        "csNatCnt": 17076,
+        "count_foreigner": 456,
+        "count_locals": 17076,
+        "date": 201112,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 1677,
-        "csNatCnt": 7534,
+        "count_foreigner": 1677,
+        "count_locals": 7534,
+        "date": 201112,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 242,
-        "csNatCnt": 1096,
+        "count_foreigner": 242,
+        "count_locals": 1096,
+        "date": 201112,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 286,
-        "csNatCnt": 9110,
+        "count_foreigner": 286,
+        "count_locals": 9110,
+        "date": 201201,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 80,
-        "csNatCnt": 937,
+        "count_foreigner": 80,
+        "count_locals": 937,
+        "date": 201201,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 7004,
-        "csNatCnt": 16473,
+        "count_foreigner": 7004,
+        "count_locals": 16473,
+        "date": 201201,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 59,
-        "csNatCnt": 1436,
+        "count_foreigner": 59,
+        "count_locals": 1436,
+        "date": 201201,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 2063,
-        "csNatCnt": 4830,
+        "count_foreigner": 2063,
+        "count_locals": 4830,
+        "date": 201201,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1403,
-        "csNatCnt": 6012,
+        "count_foreigner": 1403,
+        "count_locals": 6012,
+        "date": 201201,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 712,
-        "csNatCnt": 17025,
+        "count_foreigner": 712,
+        "count_locals": 17025,
+        "date": 201201,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 1113,
-        "csNatCnt": 5736,
+        "count_foreigner": 1113,
+        "count_locals": 5736,
+        "date": 201201,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 9610,
-        "csNatCnt": 37223,
+        "count_foreigner": 9610,
+        "count_locals": 37223,
+        "date": 201201,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 73,
-        "csNatCnt": 1188,
+        "count_foreigner": 73,
+        "count_locals": 1188,
+        "date": 201201,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 73,
-        "csNatCnt": 4762,
+        "count_foreigner": 73,
+        "count_locals": 4762,
+        "date": 201202,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 52,
-        "csNatCnt": 830,
+        "count_foreigner": 52,
+        "count_locals": 830,
+        "date": 201202,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 5538,
-        "csNatCnt": 9853,
+        "count_foreigner": 5538,
+        "count_locals": 9853,
+        "date": 201202,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 56,
-        "csNatCnt": 1919,
+        "count_foreigner": 56,
+        "count_locals": 1919,
+        "date": 201202,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 2094,
-        "csNatCnt": 5599,
+        "count_foreigner": 2094,
+        "count_locals": 5599,
+        "date": 201202,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 674,
-        "csNatCnt": 4480,
+        "count_foreigner": 674,
+        "count_locals": 4480,
+        "date": 201202,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 191,
-        "csNatCnt": 29152,
+        "count_foreigner": 191,
+        "count_locals": 29152,
+        "date": 201202,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 434,
-        "csNatCnt": 3951,
+        "count_foreigner": 434,
+        "count_locals": 3951,
+        "date": 201202,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 19,
-        "csNatCnt": 40278,
+        "count_foreigner": 19,
+        "count_locals": 40278,
+        "date": 201202,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 339,
-        "csNatCnt": 1240,
+        "count_foreigner": 339,
+        "count_locals": 1240,
+        "date": 201202,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 688,
-        "csNatCnt": 13863,
+        "count_foreigner": 688,
+        "count_locals": 13863,
+        "date": 201203,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 39,
-        "csNatCnt": 790,
+        "count_foreigner": 39,
+        "count_locals": 790,
+        "date": 201203,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 7511,
-        "csNatCnt": 8644,
+        "count_foreigner": 7511,
+        "count_locals": 8644,
+        "date": 201203,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 48,
-        "csNatCnt": 1370,
+        "count_foreigner": 48,
+        "count_locals": 1370,
+        "date": 201203,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 4082,
-        "csNatCnt": 4207,
+        "count_foreigner": 4082,
+        "count_locals": 4207,
+        "date": 201203,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1119,
-        "csNatCnt": 3788,
+        "count_foreigner": 1119,
+        "count_locals": 3788,
+        "date": 201203,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 481,
-        "csNatCnt": 14253,
+        "count_foreigner": 481,
+        "count_locals": 14253,
+        "date": 201203,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 691,
-        "csNatCnt": 4225,
+        "count_foreigner": 691,
+        "count_locals": 4225,
+        "date": 201203,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 32,
-        "csNatCnt": 29820,
+        "count_foreigner": 32,
+        "count_locals": 29820,
+        "date": 201203,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 205,
-        "csNatCnt": 841,
+        "count_foreigner": 205,
+        "count_locals": 841,
+        "date": 201203,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 1351,
-        "csNatCnt": 52847,
+        "count_foreigner": 1351,
+        "count_locals": 52847,
+        "date": 201204,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 57,
-        "csNatCnt": 860,
+        "count_foreigner": 57,
+        "count_locals": 860,
+        "date": 201204,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 8253,
-        "csNatCnt": 8911,
+        "count_foreigner": 8253,
+        "count_locals": 8911,
+        "date": 201204,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 48,
-        "csNatCnt": 1412,
+        "count_foreigner": 48,
+        "count_locals": 1412,
+        "date": 201204,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 5035,
-        "csNatCnt": 9057,
+        "count_foreigner": 5035,
+        "count_locals": 9057,
+        "date": 201204,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 2421,
-        "csNatCnt": 4368,
+        "count_foreigner": 2421,
+        "count_locals": 4368,
+        "date": 201204,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 552,
-        "csNatCnt": 14242,
+        "count_foreigner": 552,
+        "count_locals": 14242,
+        "date": 201204,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 994,
-        "csNatCnt": 4816,
+        "count_foreigner": 994,
+        "count_locals": 4816,
+        "date": 201204,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 67,
-        "csNatCnt": 30747,
+        "count_foreigner": 67,
+        "count_locals": 30747,
+        "date": 201204,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 503,
-        "csNatCnt": 937,
+        "count_foreigner": 503,
+        "count_locals": 937,
+        "date": 201204,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 1135,
-        "csNatCnt": 45908,
+        "count_foreigner": 1135,
+        "count_locals": 45908,
+        "date": 201205,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 73,
-        "csNatCnt": 910,
+        "count_foreigner": 73,
+        "count_locals": 910,
+        "date": 201205,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 7353,
-        "csNatCnt": 11803,
+        "count_foreigner": 7353,
+        "count_locals": 11803,
+        "date": 201205,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 49,
-        "csNatCnt": 1425,
+        "count_foreigner": 49,
+        "count_locals": 1425,
+        "date": 201205,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 4373,
-        "csNatCnt": 4739,
+        "count_foreigner": 4373,
+        "count_locals": 4739,
+        "date": 201205,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1336,
-        "csNatCnt": 5178,
+        "count_foreigner": 1336,
+        "count_locals": 5178,
+        "date": 201205,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 6,
-        "csNatCnt": 18432,
+        "count_foreigner": 6,
+        "count_locals": 18432,
+        "date": 201205,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 691,
-        "csNatCnt": 3211,
+        "count_foreigner": 691,
+        "count_locals": 3211,
+        "date": 201205,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 2,
-        "csNatCnt": 30528,
+        "count_foreigner": 2,
+        "count_locals": 30528,
+        "date": 201205,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 229,
-        "csNatCnt": 1213,
+        "count_foreigner": 229,
+        "count_locals": 1213,
+        "date": 201205,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 1282,
-        "csNatCnt": 50759,
+        "count_foreigner": 1282,
+        "count_locals": 50759,
+        "date": 201206,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 68,
-        "csNatCnt": 880,
+        "count_foreigner": 68,
+        "count_locals": 880,
+        "date": 201206,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 10222,
-        "csNatCnt": 10714,
+        "count_foreigner": 10222,
+        "count_locals": 10714,
+        "date": 201206,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 56,
-        "csNatCnt": 1512,
+        "count_foreigner": 56,
+        "count_locals": 1512,
+        "date": 201206,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 5605,
-        "csNatCnt": 3604,
+        "count_foreigner": 5605,
+        "count_locals": 3604,
+        "date": 201206,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1486,
-        "csNatCnt": 4277,
+        "count_foreigner": 1486,
+        "count_locals": 4277,
+        "date": 201206,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 39,
-        "csNatCnt": 14726,
+        "count_foreigner": 39,
+        "count_locals": 14726,
+        "date": 201206,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 649,
-        "csNatCnt": 4082,
+        "count_foreigner": 649,
+        "count_locals": 4082,
+        "date": 201206,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 56,
-        "csNatCnt": 32676,
+        "count_foreigner": 56,
+        "count_locals": 32676,
+        "date": 201206,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 182,
-        "csNatCnt": 1246,
+        "count_foreigner": 182,
+        "count_locals": 1246,
+        "date": 201206,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 896,
-        "csNatCnt": 25365,
+        "count_foreigner": 896,
+        "count_locals": 25365,
+        "date": 201207,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 54,
-        "csNatCnt": 910,
+        "count_foreigner": 54,
+        "count_locals": 910,
+        "date": 201207,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 6784,
-        "csNatCnt": 18211,
+        "count_foreigner": 6784,
+        "count_locals": 18211,
+        "date": 201207,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 73,
-        "csNatCnt": 1888,
+        "count_foreigner": 73,
+        "count_locals": 1888,
+        "date": 201207,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 3352,
-        "csNatCnt": 4635,
+        "count_foreigner": 3352,
+        "count_locals": 4635,
+        "date": 201207,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1486,
-        "csNatCnt": 4277,
+        "count_foreigner": 1486,
+        "count_locals": 4277,
+        "date": 201207,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 71,
-        "csNatCnt": 17978,
+        "count_foreigner": 71,
+        "count_locals": 17978,
+        "date": 201207,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 1611,
-        "csNatCnt": 9457,
+        "count_foreigner": 1611,
+        "count_locals": 9457,
+        "date": 201207,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 67,
-        "csNatCnt": 30747,
+        "count_foreigner": 67,
+        "count_locals": 30747,
+        "date": 201207,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 215,
-        "csNatCnt": 1075,
+        "count_foreigner": 215,
+        "count_locals": 1075,
+        "date": 201207,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 945,
-        "csNatCnt": 16396,
+        "count_foreigner": 945,
+        "count_locals": 16396,
+        "date": 201208,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 59,
-        "csNatCnt": 860,
+        "count_foreigner": 59,
+        "count_locals": 860,
+        "date": 201208,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 7124,
-        "csNatCnt": 25341,
+        "count_foreigner": 7124,
+        "count_locals": 25341,
+        "date": 201208,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 186,
-        "csNatCnt": 1681,
+        "count_foreigner": 186,
+        "count_locals": 1681,
+        "date": 201208,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 2664,
-        "csNatCnt": 5398,
+        "count_foreigner": 2664,
+        "count_locals": 5398,
+        "date": 201208,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 865,
-        "csNatCnt": 7158,
+        "count_foreigner": 865,
+        "count_locals": 7158,
+        "date": 201208,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 132,
-        "csNatCnt": 20010,
+        "count_foreigner": 132,
+        "count_locals": 20010,
+        "date": 201208,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 1629,
-        "csNatCnt": 11733,
+        "count_foreigner": 1629,
+        "count_locals": 11733,
+        "date": 201208,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 58,
-        "csNatCnt": 30528,
+        "count_foreigner": 58,
+        "count_locals": 30528,
+        "date": 201208,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 118,
-        "csNatCnt": 1569,
+        "count_foreigner": 118,
+        "count_locals": 1569,
+        "date": 201208,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 765,
-        "csNatCnt": 27636,
+        "count_foreigner": 765,
+        "count_locals": 27636,
+        "date": 201209,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 128,
-        "csNatCnt": 821,
+        "count_foreigner": 128,
+        "count_locals": 821,
+        "date": 201209,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 7667,
-        "csNatCnt": 10955,
+        "count_foreigner": 7667,
+        "count_locals": 10955,
+        "date": 201209,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 168,
-        "csNatCnt": 1108,
+        "count_foreigner": 168,
+        "count_locals": 1108,
+        "date": 201209,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 3352,
-        "csNatCnt": 4635,
+        "count_foreigner": 3352,
+        "count_locals": 4635,
+        "date": 201209,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1128,
-        "csNatCnt": 4150,
+        "count_foreigner": 1128,
+        "count_locals": 4150,
+        "date": 201209,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 15,
-        "csNatCnt": 11059,
+        "count_foreigner": 15,
+        "count_locals": 11059,
+        "date": 201209,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 1876,
-        "csNatCnt": 6828,
+        "count_foreigner": 1876,
+        "count_locals": 6828,
+        "date": 201209,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 56,
-        "csNatCnt": 32676,
+        "count_foreigner": 56,
+        "count_locals": 32676,
+        "date": 201209,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 149,
-        "csNatCnt": 742,
+        "count_foreigner": 149,
+        "count_locals": 742,
+        "date": 201209,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 6190,
-        "csNatCnt": 117916,
+        "count_foreigner": 6190,
+        "count_locals": 117916,
+        "date": 201210,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 76,
-        "csNatCnt": 820,
+        "count_foreigner": 76,
+        "count_locals": 820,
+        "date": 201210,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 7268,
-        "csNatCnt": 12743,
+        "count_foreigner": 7268,
+        "count_locals": 12743,
+        "date": 201210,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 236,
-        "csNatCnt": 1702,
+        "count_foreigner": 236,
+        "count_locals": 1702,
+        "date": 201210,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 4033,
-        "csNatCnt": 4591,
+        "count_foreigner": 4033,
+        "count_locals": 4591,
+        "date": 201210,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1499,
-        "csNatCnt": 5047,
+        "count_foreigner": 1499,
+        "count_locals": 5047,
+        "date": 201210,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 12,
-        "csNatCnt": 15995,
+        "count_foreigner": 12,
+        "count_locals": 15995,
+        "date": 201210,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 1894,
-        "csNatCnt": 8194,
+        "count_foreigner": 1894,
+        "count_locals": 8194,
+        "date": 201210,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 49,
-        "csNatCnt": 34841,
+        "count_foreigner": 49,
+        "count_locals": 34841,
+        "date": 201210,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 110,
-        "csNatCnt": 1074,
+        "count_foreigner": 110,
+        "count_locals": 1074,
+        "date": 201210,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 4678,
-        "csNatCnt": 103045,
+        "count_foreigner": 4678,
+        "count_locals": 103045,
+        "date": 201211,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 71,
-        "csNatCnt": 850,
+        "count_foreigner": 71,
+        "count_locals": 850,
+        "date": 201211,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 7379,
-        "csNatCnt": 10915,
+        "count_foreigner": 7379,
+        "count_locals": 10915,
+        "date": 201211,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 328,
-        "csNatCnt": 1089,
+        "count_foreigner": 328,
+        "count_locals": 1089,
+        "date": 201211,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 3799,
-        "csNatCnt": 4663,
+        "count_foreigner": 3799,
+        "count_locals": 4663,
+        "date": 201211,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 1061,
-        "csNatCnt": 2487,
+        "count_foreigner": 1061,
+        "count_locals": 2487,
+        "date": 201211,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 4,
-        "csNatCnt": 13695,
+        "count_foreigner": 4,
+        "count_locals": 13695,
+        "date": 201211,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 728,
-        "csNatCnt": 4531,
+        "count_foreigner": 728,
+        "count_locals": 4531,
+        "date": 201211,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csNatCnt": 31038,
+        "count_locals": 31038,
+        "date": 201211,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 302,
-        "csNatCnt": 799,
+        "count_foreigner": 302,
+        "count_locals": 799,
+        "date": 201211,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 1171,
-        "csNatCnt": 30911,
+        "count_foreigner": 1171,
+        "count_locals": 30911,
+        "date": 201212,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산시립미술관"
     },
     {
-        "csForCnt": 77,
-        "csNatCnt": 820,
+        "count_foreigner": 77,
+        "count_locals": 820,
+        "date": 201212,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "M.Do 관광호텔"
     },
     {
-        "csForCnt": 4760,
-        "csNatCnt": 15177,
+        "count_foreigner": 4760,
+        "count_locals": 15177,
+        "date": 201212,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "파라다이스호텔부산"
     },
     {
-        "csForCnt": 289,
-        "csNatCnt": 1187,
+        "count_foreigner": 289,
+        "count_locals": 1187,
+        "date": 201212,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "호텔일루아"
     },
     {
-        "csForCnt": 2537,
-        "csNatCnt": 5676,
+        "count_foreigner": 2537,
+        "count_locals": 5676,
+        "date": 201212,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대그랜드호텔"
     },
     {
-        "csForCnt": 816,
-        "csNatCnt": 6420,
+        "count_foreigner": 816,
+        "count_locals": 6420,
+        "date": 201212,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산웨스턴조선호텔"
     },
     {
-        "csForCnt": 18,
-        "csNatCnt": 14112,
+        "count_foreigner": 18,
+        "count_locals": 14112,
+        "date": 201212,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 글로리콘도"
     },
     {
-        "csForCnt": 558,
-        "csNatCnt": 6140,
+        "count_foreigner": 558,
+        "count_locals": 6140,
+        "date": 201212,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "노보텔부산"
     },
     {
-        "csForCnt": 55,
-        "csNatCnt": 33896,
+        "count_foreigner": 55,
+        "count_locals": 33896,
+        "date": 201212,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "해운대 한화리조트 부산"
     },
     {
-        "csForCnt": 33,
-        "csNatCnt": 1132,
+        "count_foreigner": 33,
+        "count_locals": 1132,
+        "date": 201212,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "송정관광호텔"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 80313,
+        "count_foreigner": 0,
+        "count_locals": 80313,
+        "date": 201401,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 109827,
+        "count_foreigner": 0,
+        "count_locals": 109827,
+        "date": 201401,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 85923,
+        "count_foreigner": 0,
+        "count_locals": 85923,
+        "date": 201401,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 69495,
+        "count_foreigner": 0,
+        "count_locals": 69495,
+        "date": 201402,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 90596,
+        "count_foreigner": 0,
+        "count_locals": 90596,
+        "date": 201402,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 67145,
+        "count_foreigner": 0,
+        "count_locals": 67145,
+        "date": 201402,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 57711,
+        "count_foreigner": 0,
+        "count_locals": 57711,
+        "date": 201403,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 62036,
+        "count_foreigner": 0,
+        "count_locals": 62036,
+        "date": 201403,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 108895,
+        "count_foreigner": 0,
+        "count_locals": 108895,
+        "date": 201403,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 83386,
+        "count_foreigner": 0,
+        "count_locals": 83386,
+        "date": 201404,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 72101,
+        "count_foreigner": 0,
+        "count_locals": 72101,
+        "date": 201404,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 51849,
+        "count_foreigner": 0,
+        "count_locals": 51849,
+        "date": 201404,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 102848,
+        "count_foreigner": 0,
+        "count_locals": 102848,
+        "date": 201405,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 97469,
+        "count_foreigner": 0,
+        "count_locals": 97469,
+        "date": 201405,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 100917,
+        "count_foreigner": 0,
+        "count_locals": 100917,
+        "date": 201405,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 97679,
+        "count_foreigner": 0,
+        "count_locals": 97679,
+        "date": 201406,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 78449,
+        "count_foreigner": 0,
+        "count_locals": 78449,
+        "date": 201406,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 94492,
+        "count_foreigner": 0,
+        "count_locals": 94492,
+        "date": 201406,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 103519,
+        "count_foreigner": 0,
+        "count_locals": 103519,
+        "date": 201407,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 85162,
+        "count_foreigner": 0,
+        "count_locals": 85162,
+        "date": 201407,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 770106,
+        "count_foreigner": 0,
+        "count_locals": 770106,
+        "date": 201407,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 114632,
+        "count_foreigner": 0,
+        "count_locals": 114632,
+        "date": 201408,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 145376,
+        "count_foreigner": 0,
+        "count_locals": 145376,
+        "date": 201408,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 111701,
+        "count_foreigner": 0,
+        "count_locals": 111701,
+        "date": 201408,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 78491,
+        "count_foreigner": 0,
+        "count_locals": 78491,
+        "date": 201409,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 60640,
+        "count_foreigner": 0,
+        "count_locals": 60640,
+        "date": 201409,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 76004,
+        "count_foreigner": 0,
+        "count_locals": 76004,
+        "date": 201409,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 97130,
+        "count_foreigner": 0,
+        "count_locals": 97130,
+        "date": 201410,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 83634,
+        "count_foreigner": 0,
+        "count_locals": 83634,
+        "date": 201410,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 94373,
+        "count_foreigner": 0,
+        "count_locals": 94373,
+        "date": 201410,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 79173,
+        "count_foreigner": 0,
+        "count_locals": 79173,
+        "date": 201411,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 62905,
+        "count_foreigner": 0,
+        "count_locals": 62905,
+        "date": 201411,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 86137,
+        "count_foreigner": 0,
+        "count_locals": 86137,
+        "date": 201411,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 77138,
+        "count_foreigner": 0,
+        "count_locals": 77138,
+        "date": 201412,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 81066,
+        "count_foreigner": 0,
+        "count_locals": 81066,
+        "date": 201412,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 68096,
+        "count_foreigner": 0,
+        "count_locals": 68096,
+        "date": 201412,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 109460,
+        "count_foreigner": 0,
+        "count_locals": 109460,
+        "date": 201501,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 93554,
+        "count_foreigner": 0,
+        "count_locals": 93554,
+        "date": 201501,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 80247,
+        "count_foreigner": 0,
+        "count_locals": 80247,
+        "date": 201501,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 83959,
+        "count_foreigner": 0,
+        "count_locals": 83959,
+        "date": 201502,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 65229,
+        "count_foreigner": 0,
+        "count_locals": 65229,
+        "date": 201502,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 49325,
+        "count_foreigner": 0,
+        "count_locals": 49325,
+        "date": 201502,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 69388,
+        "count_foreigner": 0,
+        "count_locals": 69388,
+        "date": 201503,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 48363,
+        "count_foreigner": 0,
+        "count_locals": 48363,
+        "date": 201503,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 89570,
+        "count_foreigner": 0,
+        "count_locals": 89570,
+        "date": 201503,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 71261,
+        "count_foreigner": 0,
+        "count_locals": 71261,
+        "date": 201504,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 67092,
+        "count_foreigner": 0,
+        "count_locals": 67092,
+        "date": 201504,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 74116,
+        "count_foreigner": 0,
+        "count_locals": 74116,
+        "date": 201504,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 95072,
+        "count_foreigner": 0,
+        "count_locals": 95072,
+        "date": 201505,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 100635,
+        "count_foreigner": 0,
+        "count_locals": 100635,
+        "date": 201505,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 98660,
+        "count_foreigner": 0,
+        "count_locals": 98660,
+        "date": 201505,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 58696,
+        "count_foreigner": 0,
+        "count_locals": 58696,
+        "date": 201506,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 26896,
+        "count_foreigner": 0,
+        "count_locals": 26896,
+        "date": 201506,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 64844,
+        "count_foreigner": 0,
+        "count_locals": 64844,
+        "date": 201506,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 78087,
+        "count_foreigner": 0,
+        "count_locals": 78087,
+        "date": 201507,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 68594,
+        "count_foreigner": 0,
+        "count_locals": 68594,
+        "date": 201507,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 73079,
+        "count_foreigner": 0,
+        "count_locals": 73079,
+        "date": 201507,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 96881,
+        "count_foreigner": 0,
+        "count_locals": 96881,
+        "date": 201508,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 113258,
+        "count_foreigner": 0,
+        "count_locals": 113258,
+        "date": 201508,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 89965,
+        "count_foreigner": 0,
+        "count_locals": 89965,
+        "date": 201508,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 61414,
+        "count_foreigner": 0,
+        "count_locals": 61414,
+        "date": 201509,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 52966,
+        "count_foreigner": 0,
+        "count_locals": 52966,
+        "date": 201509,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 54726,
+        "count_foreigner": 0,
+        "count_locals": 54726,
+        "date": 201509,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 83090,
+        "count_foreigner": 0,
+        "count_locals": 83090,
+        "date": 201510,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 74377,
+        "count_foreigner": 0,
+        "count_locals": 74377,
+        "date": 201510,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 80887,
+        "count_foreigner": 0,
+        "count_locals": 80887,
+        "date": 201510,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 50146,
+        "count_foreigner": 0,
+        "count_locals": 50146,
+        "date": 201511,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 57330,
+        "count_foreigner": 0,
+        "count_locals": 57330,
+        "date": 201511,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 61951,
+        "count_foreigner": 0,
+        "count_locals": 61951,
+        "date": 201511,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 78767,
+        "count_foreigner": 0,
+        "count_locals": 78767,
+        "date": 201512,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 60766,
+        "count_foreigner": 0,
+        "count_locals": 60766,
+        "date": 201512,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 50314,
+        "count_foreigner": 0,
+        "count_locals": 50314,
+        "date": 201512,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 88135,
+        "count_foreigner": 0,
+        "count_locals": 88135,
+        "date": 201601,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 84594,
+        "count_foreigner": 0,
+        "count_locals": 84594,
+        "date": 201601,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 93315,
+        "count_foreigner": 0,
+        "count_locals": 93315,
+        "date": 201601,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201601,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 88460,
+        "count_foreigner": 0,
+        "count_locals": 88460,
+        "date": 201602,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 75981,
+        "count_foreigner": 0,
+        "count_locals": 75981,
+        "date": 201602,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 59890,
+        "count_foreigner": 0,
+        "count_locals": 59890,
+        "date": 201602,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201602,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 59894,
+        "count_foreigner": 0,
+        "count_locals": 59894,
+        "date": 201603,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 52435,
+        "count_foreigner": 0,
+        "count_locals": 52435,
+        "date": 201603,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 74187,
+        "count_foreigner": 0,
+        "count_locals": 74187,
+        "date": 201603,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201603,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 85582,
+        "count_foreigner": 0,
+        "count_locals": 85582,
+        "date": 201604,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 78813,
+        "count_foreigner": 0,
+        "count_locals": 78813,
+        "date": 201604,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 100464,
+        "count_foreigner": 0,
+        "count_locals": 100464,
+        "date": 201604,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201604,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 86889,
+        "count_foreigner": 0,
+        "count_locals": 86889,
+        "date": 201605,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 78008,
+        "count_foreigner": 0,
+        "count_locals": 78008,
+        "date": 201605,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 99871,
+        "count_foreigner": 0,
+        "count_locals": 99871,
+        "date": 201605,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201605,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 72321,
+        "count_foreigner": 0,
+        "count_locals": 72321,
+        "date": 201606,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 68075,
+        "count_foreigner": 0,
+        "count_locals": 68075,
+        "date": 201606,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 82744,
+        "count_foreigner": 0,
+        "count_locals": 82744,
+        "date": 201606,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201606,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 85317,
+        "count_foreigner": 0,
+        "count_locals": 85317,
+        "date": 201607,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 90390,
+        "count_foreigner": 0,
+        "count_locals": 90390,
+        "date": 201607,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 102015,
+        "count_foreigner": 0,
+        "count_locals": 102015,
+        "date": 201607,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201607,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 113101,
+        "count_foreigner": 0,
+        "count_locals": 113101,
+        "date": 201608,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 109722,
+        "count_foreigner": 0,
+        "count_locals": 109722,
+        "date": 201608,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 82055,
+        "count_foreigner": 0,
+        "count_locals": 82055,
+        "date": 201608,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201608,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 52552,
+        "count_foreigner": 0,
+        "count_locals": 52552,
+        "date": 201609,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 52685,
+        "count_foreigner": 0,
+        "count_locals": 52685,
+        "date": 201609,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 69166,
+        "count_foreigner": 0,
+        "count_locals": 69166,
+        "date": 201609,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201609,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 71513,
+        "count_foreigner": 0,
+        "count_locals": 71513,
+        "date": 201610,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 74903,
+        "count_foreigner": 0,
+        "count_locals": 74903,
+        "date": 201610,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 110666,
+        "count_foreigner": 0,
+        "count_locals": 110666,
+        "date": 201610,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201610,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 63463,
+        "count_foreigner": 0,
+        "count_locals": 63463,
+        "date": 201611,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 44740,
+        "count_foreigner": 0,
+        "count_locals": 44740,
+        "date": 201611,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 70073,
+        "count_foreigner": 0,
+        "count_locals": 70073,
+        "date": 201611,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201611,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 81908,
+        "count_foreigner": 0,
+        "count_locals": 81908,
+        "date": 201612,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 65326,
+        "count_foreigner": 0,
+        "count_locals": 65326,
+        "date": 201612,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 85165,
+        "count_foreigner": 0,
+        "count_locals": 85165,
+        "date": 201612,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201612,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 94014,
+        "count_foreigner": 0,
+        "count_locals": 94014,
+        "date": 201701,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 76627,
+        "count_foreigner": 0,
+        "count_locals": 76627,
+        "date": 201701,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 54497,
+        "count_foreigner": 0,
+        "count_locals": 54497,
+        "date": 201701,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201701,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 91461,
+        "count_foreigner": 0,
+        "count_locals": 91461,
+        "date": 201702,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 68722,
+        "count_foreigner": 0,
+        "count_locals": 68722,
+        "date": 201702,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 74566,
+        "count_foreigner": 0,
+        "count_locals": 74566,
+        "date": 201702,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201702,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 68296,
+        "count_foreigner": 0,
+        "count_locals": 68296,
+        "date": 201703,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 39190,
+        "count_foreigner": 0,
+        "count_locals": 39190,
+        "date": 201703,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 84064,
+        "count_foreigner": 0,
+        "count_locals": 84064,
+        "date": 201703,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201703,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 99548,
+        "count_foreigner": 0,
+        "count_locals": 99548,
+        "date": 201704,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 85674,
+        "count_foreigner": 0,
+        "count_locals": 85674,
+        "date": 201704,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 99928,
+        "count_foreigner": 0,
+        "count_locals": 99928,
+        "date": 201704,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201704,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 121269,
+        "count_foreigner": 0,
+        "count_locals": 121269,
+        "date": 201705,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 55737,
+        "count_foreigner": 0,
+        "count_locals": 55737,
+        "date": 201705,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 95084,
+        "count_foreigner": 0,
+        "count_locals": 95084,
+        "date": 201705,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201705,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 113258,
+        "count_foreigner": 0,
+        "count_locals": 113258,
+        "date": 201706,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 47335,
+        "count_foreigner": 0,
+        "count_locals": 47335,
+        "date": 201706,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 86286,
+        "count_foreigner": 0,
+        "count_locals": 86286,
+        "date": 201706,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201706,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 90937,
+        "count_foreigner": 0,
+        "count_locals": 90937,
+        "date": 201707,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 105663,
+        "count_foreigner": 0,
+        "count_locals": 105663,
+        "date": 201707,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 93509,
+        "count_foreigner": 0,
+        "count_locals": 93509,
+        "date": 201707,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201707,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 103279,
+        "count_foreigner": 0,
+        "count_locals": 103279,
+        "date": 201708,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 84692,
+        "count_foreigner": 0,
+        "count_locals": 84692,
+        "date": 201708,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 83592,
+        "count_foreigner": 0,
+        "count_locals": 83592,
+        "date": 201708,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201708,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 67865,
+        "count_foreigner": 0,
+        "count_locals": 67865,
+        "date": 201709,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 42098,
+        "count_foreigner": 0,
+        "count_locals": 42098,
+        "date": 201709,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 87213,
+        "count_foreigner": 0,
+        "count_locals": 87213,
+        "date": 201709,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201709,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 99410,
+        "count_foreigner": 0,
+        "count_locals": 99410,
+        "date": 201710,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 81958,
+        "count_foreigner": 0,
+        "count_locals": 81958,
+        "date": 201710,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 68990,
+        "count_foreigner": 0,
+        "count_locals": 68990,
+        "date": 201710,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201710,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 70972,
+        "count_foreigner": 0,
+        "count_locals": 70972,
+        "date": 201711,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 38131,
+        "count_foreigner": 0,
+        "count_locals": 38131,
+        "date": 201711,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 69148,
+        "count_foreigner": 0,
+        "count_locals": 69148,
+        "date": 201711,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201711,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 62818,
+        "count_foreigner": 0,
+        "count_locals": 62818,
+        "date": 201712,
         "restrict1": "부산광역시",
         "restrict2": "영도구",
         "tourist_spot": "태종대 관광지"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 56794,
+        "count_foreigner": 0,
+        "count_locals": 56794,
+        "date": 201712,
         "restrict1": "부산광역시",
         "restrict2": "해운대구",
         "tourist_spot": "부산아쿠아리움"
     },
     {
-        "csForCnt": 0,
-        "csNatCnt": 84336,
+        "count_foreigner": 0,
+        "count_locals": 84336,
+        "date": 201712,
         "restrict1": "부산광역시",
         "restrict2": "강서구",
         "tourist_spot": "한국마사회 렛츠런파크 부산경남"
     },
     {
+        "date": 201712,
         "restrict1": "부산광역시",
         "restrict2": "기장군",
         "tourist_spot": "국립부산과학관"

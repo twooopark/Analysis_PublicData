@@ -18,22 +18,22 @@ def preprocess_foreign_visitor(data):
         data.pop('rnum')
 
 def preprocess_tourspot_visitor(post):
-    if 'csNatcnt' in post:
-        post['count_locals'] = post.pop('csNatcnt')
-    if 'csForcnt' in post:
-        post['count_forigner'] = post.pop('csForcnt')
+    if 'csNatCnt' in post:
+        post['count_locals'] = post.pop('csNatCnt')
+    if 'csForCnt' in post:
+        post['count_foreigner'] = post.pop('csForCnt')
     if 'resNm' in post:
         post['tourist_spot'] = post.pop('resNm')
     if 'sido' in post:
         post['restrict1'] = post.pop('sido')
     if 'gungu' in post:
         post['restrict2'] = post.pop('gungu')
+    if 'ym' in post:
+        post['date'] = post.pop('ym')
     if 'addrCd' in post:
         post.pop('addrCd')
     if 'rnum' in post:
         post.pop('rnum')
-    if 'ym' in post:
-        post.pop('ym')
 
 
 
@@ -45,8 +45,10 @@ def crawling_foreign_visitor(
         restore_dir='',
         service_key=''):
 
+    results = []
+    filename = '%s/%s(%s)_foreignvisitor_%s_%s.json' % (restore_dir, country[0], country[1], start_year, end_year)
+
     if fetch:
-        results = []
         for i in range(start_year, end_year+1):
             for j in range(1, 13):
                 for posts in api.pd_fetch_foreign_visitor(country_code=country[1], year=i, month=j, service_key=service_key):
@@ -59,10 +61,11 @@ def crawling_foreign_visitor(
                     results += posts
 
         # save data to file
-        filename = '%s/%s(%s)_foreignvisitor_%s_%s.json' % (restore_dir, country[0], country[1], start_year, end_year)
         with open(filename, 'w', encoding='utf-8') as outfile:
             json_string = json.dumps(results, indent=4, sort_keys=True, ensure_ascii=False)
             outfile.write(json_string)
+
+    return filename
 
 def crawling_tourspot_visitor(
         district,
@@ -72,9 +75,10 @@ def crawling_tourspot_visitor(
         restore_dir='',
         service_key=''):
 
+    results = []
+    filename = '%s/%s_tourspot_%s_%s.json' % (restore_dir, district, start_year, end_year)
+
     if fetch:
-        results = []
-        filename = '%s/%s_tourspot_%s_%s.json' % (restore_dir, district, start_year, end_year)
         for i in range(start_year, end_year+1):
             for j in range(1, 13):
                 # retuned posts type is two cases, if posts have a one value, type is Dictinary, else if posts have several values, type is List
@@ -92,3 +96,4 @@ def crawling_tourspot_visitor(
             json_string = json.dumps(results, indent=4, sort_keys=True, ensure_ascii=False)
             outfile.write(json_string)
 
+    return filename
