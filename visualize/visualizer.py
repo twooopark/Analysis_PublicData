@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
+import os
 
+RESULT_DIRECTORY = "__results__/visualization"
 
 def graph_scatter(result_analysis):
 
@@ -11,5 +13,12 @@ def graph_scatter(result_analysis):
         subplots[index].set_title('r = {:.5f}'.format(result['r']))
         subplots[index].scatter(result['x'], result['y'], edgecolor='none', alpha=0.75, s=6, c='black')
 
+    # save file?
+    save_filename = '%s/graph_scatter.png' % (RESULT_DIRECTORY)
+    plt.savefig(save_filename, dpi=400, bbox_inches='tight')
+
     plt.subplots_adjust(wspace=0)
     plt.show()
+
+if os.path.exists(RESULT_DIRECTORY) is False:
+    os.mkdir(RESULT_DIRECTORY)
