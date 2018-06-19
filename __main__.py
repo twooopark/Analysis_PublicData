@@ -21,5 +21,12 @@ if __name__ == '__main__':
         resultfiles['foreign_visitor'].append(returnedFilename)
 
     # analysis
-    analyze.anlysis_correlation(resultfiles=resultfiles)
+    results = analyze.anlysis_correlation(resultfiles=resultfiles)
+
+    # visualize
+    for result in results :
+        print(result)
+
+    visualize.graph_scatter(results)
+
 
