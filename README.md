@@ -1,8 +1,11 @@
 # Analysis_PublicData
 ---
 > 공공 데이터 API를 활용한 데이터 기반 추천 프로그램입니다.
-> API : [공공데이터 API](https://www.data.go.kr) -
+
+> API : [공공데이터 API](https://www.data.go.kr)
+
 > Language : Python
+
 > PythonLibary : Matlablib, scipy, pandas
 
 
