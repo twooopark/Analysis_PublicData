@@ -17,7 +17,6 @@
 ---
 <img src="https://github.com/twooopark/Analysis_PublicData/blob/master/__results__/visualization/graph_scatter.png" height="400px" />
 
-
 # 상관분석
 >상관관계
 1. 두 변수 사이의 관계 및 성향을 파악하는 분석방법으로 예측, 추천등 많이 사용하는 분석 방법중 하나입니다. 예) 키가 크면 발이 크다.  교육 수준이 높을 수록 자녀의 대학 진학률이 높다 등
