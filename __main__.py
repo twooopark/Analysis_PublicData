@@ -32,6 +32,7 @@ if __name__ == '__main__':
     # 2. analysis & vsualization
     result_analysis = analyze.analysis_correlation_by_tourspot(resultfiles=resultfiles)
     print(result_analysis)
+    visualize.graph_bar(result_analysis, showgraph=True)
 
 
 

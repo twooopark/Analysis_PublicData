@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
 import os
 
 RESULT_DIRECTORY = "__results__/visualization"
@@ -15,6 +17,24 @@ def graph_scatter(result_analysis, showgraph=True):
 
     # save file?
     save_filename = '%s/graph_scatter.png' % (RESULT_DIRECTORY)
+    plt.savefig(save_filename, dpi=400, bbox_inches='tight')
+
+    plt.subplots_adjust(wspace=0)
+
+    # show graph?
+    if showgraph:
+        plt.show()
+
+def graph_bar(result_analysis, showgraph=True):
+    d = pd.DataFrame(result_analysis)
+    df = pd.DataFrame(
+        result_analysis,
+        d['tourspot'].tolist())
+    df.plot(kind="bar")
+    plt.rcParams['axes.unicode_minus'] = False
+
+    # save file?
+    save_filename = '%s/graph_bar.png' % (RESULT_DIRECTORY)
     plt.savefig(save_filename, dpi=400, bbox_inches='tight')
 
     plt.subplots_adjust(wspace=0)

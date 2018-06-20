@@ -34,7 +34,7 @@ def analysis_correlation(resultfiles):
         y = list(mergeTable['count_foreigner'])
 
         # columns=['country_name', 'date', 'visit_count'] 이 데이터셋에서 나라명을 중복없이 가져온다.
-        country_name = temp_foreign_visitor_table['country_name'].unique().item(0)
+        country_name = temp_foreign_visitor_table['country_name'].unique().item(0).replace(' ', '')
 
         # 상관계수 r을 구한다.
         # 피어슨 상관 계수(Pearson correlation coefficient 또는 Pearson's r)
@@ -138,6 +138,7 @@ def analysis_correlation_by_tourspot(resultfiles):
 
         # 나라별 결과값을 리스트에 추가한다.
         result.append(data)
+
     return result
 
 
