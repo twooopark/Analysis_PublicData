@@ -13,13 +13,11 @@
 > matlablib를 이용해, 산점도 그래프 이미지 결과물을 생성하도록 했습니다.
 
 # 시각화 결과
-> 산점도 그래프
-나라별 입국자 수 & 관광지의 외국인 입장 수
+> 산점도 그래프- 나라별 입국자 수 & 관광지의 외국인 입장 수
 ---
 <img src="https://github.com/twooopark/Analysis_PublicData/blob/master/__results__/visualization/graph_scatter.png" height="400px" />
 
-> 바 그래프
-나라별 입국자 수 & 관광지 별 외국인 입장 수
+> 바 그래프 - 나라별 입국자 수 & 관광지 별 외국인 입장 수
 ---
 <img src="https://github.com/twooopark/Analysis_PublicData/blob/master/__results__/visualization/graph_bar.png" height="400px" />
 
